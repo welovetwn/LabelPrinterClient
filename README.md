@@ -1,6 +1,10 @@
 ﻿# Label Printer Client
 
-標籤列印客戶端應用程式 - 可從 Web API 取得資料並列印標籤 🚀
+標籤列印客戶端應用程式 - 可從 Web API 取得資料並列印標籤
+
+## 📋 注意
+此版本的 .label 格式已經與 LabelDesigner 所產生的格式不相容
+此問題待解決
 
 ## ✨ 功能特色
 
